@@ -10,7 +10,7 @@
         "techdivision/appserver": "0.6.*",
         "techdivision/webcontainer": "0.5.*",
         "techdivision/servlet": "0.5.*",
-        "techdivision/storage": "0.5.*",
+        "techdivision/connection": "0.1.*",
         "techdivision/servletengine": "0.5.*"
     },
     "autoload": {
